@@ -22,13 +22,13 @@ Companies are struggling to see who is using AI tools on their networks. As part
 
 <br><br>
 
-<b>🌐 LLM Blocker — Chrome Extension</b><br>
+<b>🌐 LLM Blocker Chrome Extension</b><br>
 A browser extension that spots when someone tries to use an LLM in the browser and blocks it on the spot. Built as the endpoint layer to go with the network controls above.<br>
 ➡️ <a href="https://github.com/Rogue-LLM-MQ/LLM-Blocker-Chrome">LLM-Blocker-Chrome</a>
 
 <br><br>
 
-<b>🧱 LLM Blocker — Host-Based Firewall (PowerShell)</b><br>
+<b>🧱 LLM Blocker Host-Based Firewall (PowerShell)</b><br>
 A PowerShell script that blocks popular AI sites (ChatGPT, Gemini, Claude, Copilot and others) at the host level through Windows Firewall. Handy for managed devices where acceptable-use policies need teeth.<br>
 ➡️ <a href="https://github.com/Rogue-LLM-MQ/LLM-Blocker-Host-Based-Firewall">LLM-Blocker-Host-Based-Firewall</a>
 
