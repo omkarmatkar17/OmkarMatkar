@@ -23,5 +23,5 @@ Cybersecurity and GRC professional based in Sydney, with a Master of IT (Cyber S
 
 ## Contact
 
-- LinkedIn: [add your LinkedIn URL]
-- Email: [add your email]
+- LinkedIn: [https://www.linkedin.com/in/omkar-matkar/]
+- Email: [omkarmatkar15@gmail.com]
