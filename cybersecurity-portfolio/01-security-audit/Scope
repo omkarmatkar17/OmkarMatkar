@@ -1,0 +1,55 @@
+# Botium Toys: Scope, Goals, and Risk Assessment Report
+
+## Scope and Goals of the Audit
+
+**Scope:** This audit covers the entire security program at Botium Toys, including all employee equipment and devices, the internal network, and internal systems. The audit reviews the company's assets alongside the controls and compliance practices currently in place.
+
+**Goals:** Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices should be implemented to improve Botium Toys' security posture.
+
+## Current Assets
+
+Assets managed by the IT department include:
+
+- On-premises equipment supporting in-office business needs
+- Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
+- Storefront products available for retail sale on site and online, stored in the company's adjoining warehouse
+- Management of systems, software, and services: accounting, telecommunication, database, security, ecommerce, and inventory management
+- Internet access
+- Internal network
+- Data retention and storage
+- Legacy system maintenance: end-of-life systems that require human monitoring
+
+## Risk Assessment
+
+### Risk Description
+
+Asset management at Botium Toys is currently inadequate. The company does not have all appropriate controls in place and may not be fully compliant with U.S. and international regulations and standards.
+
+### Control Best Practices
+
+Aligning with the **Identify** function of the NIST Cybersecurity Framework, Botium Toys needs to dedicate resources to identifying and classifying its assets, and to determining the impact that the loss of any asset — including systems — would have on business continuity.
+
+### Risk Score
+
+**8 / 10 (high)** — driven by the lack of key controls and limited adherence to compliance best practices.
+
+### Additional Findings
+
+- The potential impact of losing an asset is rated **medium**, because the IT department does not currently know which assets would be at risk.
+- The risk of asset compromise or regulatory fines is **high**, as required controls are missing and compliance best practices for keeping critical data private and secure are not fully followed.
+
+Specific observations:
+
+- All employees have access to internally stored data, including cardholder data and customer PII/SPII.
+- Customer credit card information is accepted, processed, transmitted, and stored in the internal database **without encryption**.
+- Least privilege and separation of duties have **not** been implemented.
+- The IT department has ensured availability and has controls in place for data integrity.
+- A firewall is in place with an appropriately defined set of security rules.
+- Antivirus software is installed and monitored regularly.
+- **No intrusion detection system (IDS)** is installed.
+- **No disaster recovery plan** exists, and critical data is **not backed up**.
+- A plan exists to notify E.U. customers within 72 hours of a breach, and privacy policies, procedures, and processes are documented and enforced.
+- A password policy exists, but its requirements are nominal and do not meet current complexity standards (minimum eight characters with a mix of letters, numbers, and special characters).
+- There is no centralised password management system, which affects IT productivity when handling password reset tickets.
+- Legacy systems are monitored and maintained, but there is no regular schedule for these tasks and intervention methods are unclear.
+- The physical site (offices, storefront, warehouse) has sufficient locks, up-to-date CCTV surveillance, and functioning fire detection and prevention systems.
